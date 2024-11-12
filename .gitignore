@@ -51,5 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+#default game_path
+game_temp.data
+
 #binary
 gol
